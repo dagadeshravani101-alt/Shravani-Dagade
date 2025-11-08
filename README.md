@@ -88,13 +88,6 @@ To run the analysis notebooks locally, you'll need the following libraries insta
 # Recommended environment setup
 pip install pandas numpy matplotlib seaborn scikit-learn textblob folium wordcloud
 
-
-Clone the repository:
-
-git clone [Your Repository URL]
-cd [Your Repository Name]
-
-
 Ensure the required datasets are placed in the appropriate location as referenced in the scripts (or update the file paths).
 
 Execute the Python scripts or Jupyter Notebooks for each task.
